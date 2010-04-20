@@ -59,7 +59,7 @@ addCommandHandler("coastguard",callCoastguard)
 
 function vehHealth(source,command)
 	if (isPedInVehicle(source)) then
-		local health = getElementHealth(getPedOccupiedVehicle(source))/10
+		local health = math.floor(getElementHealth(getPedOccupiedVehicle(source))/10)
 		outputChatBox("You vehicle has "..health.."% health.",source,255,255,0)
 	else
 		outputChatBox("You are not in a vehicle.",source,255,0,0)
