@@ -1,0 +1,17 @@
+<meta>
+	<script src="wanted.lua" type="client" />
+	<script src="exports.lua" type="server" />
+	<script src="wanted.server.lua" type="server" />
+	<script src="crimes.lua" type="server" />
+	<export function="setWantedLevel" type="server" />
+	<export function="getWantedLevel" type="server" />
+	<file src="images/star.png" />
+	<file src="images/star0.png" />
+	<file src="images/star1.png" />
+	<file src="images/star2.png" />
+	<file src="images/star3.png" />
+	<file src="images/star4.png" />
+	<file src="images/star5.png" />
+	<file src="images/star6.png" />
+	<file src="images/starback.png" />
+</meta>

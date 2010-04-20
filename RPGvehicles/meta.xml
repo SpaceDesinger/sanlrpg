@@ -1,0 +1,6 @@
+<meta>
+	<info author="Callum" version="1.0" name="Vehicles-System" decription="Vehicles System" type="script" /> 
+		<script src="adder.lua" type="server" />
+		<script src="server.lua" type="server" />
+		<map src="vehicles.map" />
+</meta>

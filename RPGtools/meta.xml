@@ -1,0 +1,5 @@
+<meta>
+	<script src="admin-health.lua" type="client" />
+	<script src="guest.lua" type="server" />
+	<script src="hex.lua" type="server" />
+</meta>

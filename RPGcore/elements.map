@@ -1,0 +1,81 @@
+<map>
+	<city id="Los Santos">
+		<class id="Police">
+			<spawn id="Police Officer" spawnEvent="lsPoliceOfficer" />
+			<spawn id="Traffic Cop" spawnEvent="lsTrafficCop" />
+			<spawn id="S.W.A.T" spawnEvent="lsSwat" />
+			<spawn id="F.B.I" spawnEvent="lsFbi" />
+		</class>
+		<class id="Emergency Services">
+			<spawn id="Paramedic" spawnEvent="lsParamedic" />
+		</class>
+		<class id="Criminals">
+			<spawn id="General Criminal" spawnEvent="lsCriminal" />
+			<spawn id="Carjacker" spawnEvent="lsCarjacker" />
+		</class>
+		<class id="Civilians">
+			<spawn id="Pilot" spawnEvent="lsPilot" />
+			<spawn id="Mechanic" spawnEvent="lsMechanic" />
+		</class>
+		<class id="Admins">
+			<spawn id="Admin" spawnEvent="lsAdmin" />
+		</class>
+	</city>
+	<city id="Flint County">
+		<class id="Civilians">
+			<spawn id="Trucker" spawnEvent="fcTrucker" />
+		</class>
+	</city>
+	<city id="San Fierro">
+		<class id="Police">
+			<spawn id="Police Officer" spawnEvent="sfPoliceOfficer" />
+			<spawn id="Traffic Cop" spawnEvent="sfTrafficCop" />
+			<spawn id="S.W.A.T" spawnEvent="sfSwat" />
+			<spawn id="F.B.I" spawnEvent="sfFbi" />
+		</class>
+		<class id="Emergency Services">
+			<spawn id="Firefighter" spawnEvent="sfFirefighter" />
+			<spawn id="Paramedic" spawnEvent="sfParamedic" />
+		</class>
+		<class id="Civilians">
+			<spawn id="Mechanic" spawnEvent="sfMechanic" />
+			<spawn id="Taxi Driver" spawnEvent="sfTaxiDriver" />
+			<spawn id="Pilot" spawnEvent="sfPilot" />
+		</class>
+	</city>
+	<city id="Tierra Robada">
+		<class id="Emergency Services">
+			<spawn id="Coastguard" spawnEvent="trCoastguard" />
+		</class>
+		<class id="Civilians">
+			<spawn id="Preist" spawnEvent="trPriest" />
+		</class>
+	</city>
+	<city id="Bone County">
+		<class id="Police">
+			<spawn id="Sheriff" spawnEvent="bcSheriff" />
+			<spawn id="Deputy" spawnEvent="bcDeputy" />
+		</class>
+		<class id="Emergency Services">
+			<spawn id="Paramedic" spawnEvent="bcParamedic" />
+		</class>
+		<class id="Criminals">
+			<spawn id="Bikers" spawnEvent="bcBiker" />
+		</class>
+	</city>
+	<city id="Las Venturas">
+		<class id="Police">
+			<spawn id="Police Officer" spawnEvent="lvPoliceOfficer" />
+			<spawn id="Traffic Cop" spawnEvent="lvTrafficCop" />
+			<spawn id="S.W.A.T" spawnEvent="lvSwat" />
+			<spawn id="F.B.I" spawnEvent="lvFbi" />
+		</class>
+		<class id="Emergency Services">
+			<spawn id="Paramedic" spawnEvent="lvParamedic" />
+		</class>
+		<class id="Civilians">
+			<spawn id="Pilot" spawnEvent="lvPilot" />
+			<spawn id="Priest" spawnEvent="lvPriest" />
+		</class>
+	</city>
+</map>
