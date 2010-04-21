@@ -1,5 +1,5 @@
 function vehCheck()
-	if (getElementHealth(source) > 1000) then
+	if (math.floor(getElementHealth(source)) > 1000) then
 		kickPlayer(getVehicleController(source),"Anti-Cheat: Vehicle Health Cheat")
 	end
 end
