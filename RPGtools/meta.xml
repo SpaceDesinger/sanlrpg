@@ -3,4 +3,5 @@
 	<script src="guest.lua" type="server" />
 	<script src="hex.lua" type="server" />
 	<script src="crash.lua" type="client" />
+	<script src="weapons.client.lua" type="client" />
 </meta>
