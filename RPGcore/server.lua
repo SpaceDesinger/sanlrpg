@@ -387,6 +387,9 @@ function onSpawn()
 	createBlipAttachedTo(source,0,2,r,g,b)
 	fadeCamera(source,true)
 	setCameraTarget(source,source)
+		if (getPlayerMoney(source) == 0) then
+			setPlayerMoney(source,100)
+		end
 end
 addEventHandler("onPlayerSpawn",getRootElement(),onSpawn)
 
