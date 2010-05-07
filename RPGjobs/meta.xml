@@ -1,8 +1,0 @@
-<meta>
-	<script src="police.lua" type="server" />
-	<script src="police.client.lua" type="client" />
-	<script src="mechanic.lua" type="server" />
-	<script src="medic.lua" type="server" />
-	<script src="carjacker.lua" type="server" />
-	<script src="taxi.lua" type="server" />
-</meta>
