@@ -1,0 +1,4 @@
+<meta>
+	<script src="anticheats.lua" type="client" />
+	<script src="anticheats_server.lua" type="server" />
+</meta>
